@@ -9,7 +9,7 @@
   "orientation": "portrait-primary",
   "scope": "./",
   "lang": "ro",
-  "icons": [
+  "icons": [xds
     {
       "src": "icon-192.png",
       "sizes": "192x192",
